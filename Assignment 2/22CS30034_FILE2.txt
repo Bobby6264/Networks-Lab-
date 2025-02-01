@@ -1,0 +1,6 @@
+HELLO
+hi
+this
+is
+file2
+FINISH
